@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @jalen253
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Python 
-- 💞️ I’m looking to collaborate on ... Pretty much anything Python related 
+- 👋 Hi, I’m Jalen Charles
+- Recent FlatIron Grad in Data Science 
+- Open For work 
+- 👀 I’m interested in ...All Machine Learning Systems
+- 🌱I’m looking to collaborate on ... Pretty much anything Python related 
 - 📫 How to reach me ...jalenacharles@gmail.com
 
 <!---
