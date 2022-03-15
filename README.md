@@ -2,7 +2,7 @@
 - Recent FlatIron Grad in Data Science 
 - Open For work 
 - 👀 I’m interested in ...All Machine Learning Systems
-- 🌱I’m looking to collaborate on ... Pretty much anything Python related 
+- 🌱I’m looking to collaborate
 - 📫 How to reach me ...jalenacharles@gmail.com
 
 <!---
