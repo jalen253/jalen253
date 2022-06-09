@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jalen Charles
-- Recent FlatIron Grad in Data Science 
+- Data Scientist
 - Open For work 
 - 👀 I’m interested in ...All Machine Learning Systems
 - 🌱I’m looking to collaborate
